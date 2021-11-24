@@ -1,0 +1,15 @@
+D:\Bridgelab\LineComparison\Length_Calculate\Length_Calculate\obj\Debug\net6.0\Length_Calculate.csproj.AssemblyReference.cache
+D:\Bridgelab\LineComparison\Length_Calculate\Length_Calculate\obj\Debug\net6.0\Length_Calculate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bridgelab\LineComparison\Length_Calculate\Length_Calculate\obj\Debug\net6.0\Length_Calculate.AssemblyInfoInputs.cache
+D:\Bridgelab\LineComparison\Length_Calculate\Length_Calculate\obj\Debug\net6.0\Length_Calculate.AssemblyInfo.cs
+D:\Bridgelab\LineComparison\Length_Calculate\Length_Calculate\obj\Debug\net6.0\Length_Calculate.csproj.CoreCompileInputs.cache
+D:\Bridgelab\LineComparison\Length_Calculate\Length_Calculate\bin\Debug\net6.0\Length_Calculate.exe
+D:\Bridgelab\LineComparison\Length_Calculate\Length_Calculate\bin\Debug\net6.0\Length_Calculate.deps.json
+D:\Bridgelab\LineComparison\Length_Calculate\Length_Calculate\bin\Debug\net6.0\Length_Calculate.runtimeconfig.json
+D:\Bridgelab\LineComparison\Length_Calculate\Length_Calculate\bin\Debug\net6.0\Length_Calculate.dll
+D:\Bridgelab\LineComparison\Length_Calculate\Length_Calculate\bin\Debug\net6.0\ref\Length_Calculate.dll
+D:\Bridgelab\LineComparison\Length_Calculate\Length_Calculate\bin\Debug\net6.0\Length_Calculate.pdb
+D:\Bridgelab\LineComparison\Length_Calculate\Length_Calculate\obj\Debug\net6.0\Length_Calculate.dll
+D:\Bridgelab\LineComparison\Length_Calculate\Length_Calculate\obj\Debug\net6.0\ref\Length_Calculate.dll
+D:\Bridgelab\LineComparison\Length_Calculate\Length_Calculate\obj\Debug\net6.0\Length_Calculate.pdb
+D:\Bridgelab\LineComparison\Length_Calculate\Length_Calculate\obj\Debug\net6.0\Length_Calculate.genruntimeconfig.cache
