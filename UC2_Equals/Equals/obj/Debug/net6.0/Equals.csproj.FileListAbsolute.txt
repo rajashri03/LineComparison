@@ -1,0 +1,15 @@
+D:\Bridgelab\LineComparison\Equals\Equals\obj\Debug\net6.0\Equals.csproj.AssemblyReference.cache
+D:\Bridgelab\LineComparison\Equals\Equals\obj\Debug\net6.0\Equals.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bridgelab\LineComparison\Equals\Equals\obj\Debug\net6.0\Equals.AssemblyInfoInputs.cache
+D:\Bridgelab\LineComparison\Equals\Equals\obj\Debug\net6.0\Equals.AssemblyInfo.cs
+D:\Bridgelab\LineComparison\Equals\Equals\obj\Debug\net6.0\Equals.csproj.CoreCompileInputs.cache
+D:\Bridgelab\LineComparison\Equals\Equals\bin\Debug\net6.0\Equals.exe
+D:\Bridgelab\LineComparison\Equals\Equals\bin\Debug\net6.0\Equals.deps.json
+D:\Bridgelab\LineComparison\Equals\Equals\bin\Debug\net6.0\Equals.runtimeconfig.json
+D:\Bridgelab\LineComparison\Equals\Equals\bin\Debug\net6.0\Equals.dll
+D:\Bridgelab\LineComparison\Equals\Equals\bin\Debug\net6.0\ref\Equals.dll
+D:\Bridgelab\LineComparison\Equals\Equals\bin\Debug\net6.0\Equals.pdb
+D:\Bridgelab\LineComparison\Equals\Equals\obj\Debug\net6.0\Equals.dll
+D:\Bridgelab\LineComparison\Equals\Equals\obj\Debug\net6.0\ref\Equals.dll
+D:\Bridgelab\LineComparison\Equals\Equals\obj\Debug\net6.0\Equals.pdb
+D:\Bridgelab\LineComparison\Equals\Equals\obj\Debug\net6.0\Equals.genruntimeconfig.cache
